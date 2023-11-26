@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-### Hey 👋 🏽, I'm [Riki!](https://github.com/rikimuhammadasli021299)
+### Hey 👋 🏽, I'm [Riki!]
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/rikinurhidayat)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/nurhidayat.riki/)
