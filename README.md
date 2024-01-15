@@ -15,7 +15,7 @@ I'm Riki Muhammad Nurhidayat. I’m currently learning <b>Fullstack Web & Mobile
 
 **Talking about Personal Stuffs:**
 
-- 📫 How to reach me: rikimuhammadasli@gmail.com
+- 📫 How to reach me: rikimuhammadnurhidayat@gmail.com
 
 **Languages and Tools:**
 
